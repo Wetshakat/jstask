@@ -3,7 +3,7 @@
 // discount of 10. Otherwise discount is 0
 
 let name = "Racy";
-let price= 16
+let price= ""
 
 function discount(price) {
     if (price >= 100) {
